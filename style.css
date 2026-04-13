@@ -1,0 +1,41 @@
+h1
+{
+    font-family: "Imperial Script", cursive;
+margin: 4%;
+padding: 0%
+
+
+}
+
+
+
+
+/* this font makes the theme elegant */
+.imperial-script-regular {
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body
+  {
+    font-family: "Imperial Script", cursive;
+    background-color: grey;
+  }
+
+.text
+{
+    /* my extra is making this text surrounded by a dashed box5rtfc */
+    border-style: dashed;
+    display: inline-block;
+}
+
+.caption
+{
+    display: block;
+}
+
+p
+{
+    color: #002BF0 ;
+}
