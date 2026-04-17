@@ -20,14 +20,18 @@ padding: 0%
   body
   {
     font-family: "Imperial Script", cursive;
-    background-color: grey;
+    background-color: #808080;
   }
 
 .text
 {
-    /* my extra is making this text surrounded by a dashed box5rtfc */
+    /* my extra is making this text surrounded by a dashed box */
     border-style: dashed;
-    display: inline-block;
+    display:flex;
+    margin: 3%;
+    text-align: center;
+
+
 }
 
 .caption
