@@ -25,7 +25,7 @@ padding: 0%
 
 .text
 {
-    /* my extra is making this text surrounded by a dashed box */
+    /* border around text and image */
     border-style: dashed;
     display:flex;
     margin: 3%;
